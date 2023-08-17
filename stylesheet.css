@@ -1,0 +1,28 @@
+.titulo {
+    background-color: rgb(241, 200, 250);
+}
+
+
+header {
+    text-align: center;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+.footer {
+    background-color: rgb(133, 21, 133);
+    color: white;
+    list-style-type: none;
+    text-align: center;
+}
+
+i {
+    color: white;
+}
+
+.lifoot {
+    display: inline-block;
+}
